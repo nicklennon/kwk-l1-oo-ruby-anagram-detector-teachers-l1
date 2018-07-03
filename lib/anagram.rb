@@ -15,7 +15,7 @@ class Anagram
     #     all_matches << array_word
     #   end
     #   all_matches
-    end
+    # end
   end
   
   
