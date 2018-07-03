@@ -15,7 +15,6 @@ class Anagram
       #if my_letters == array_of_letters.sort
       #   all_matches << array_word
       # end
-    end
       return all_matches
   end
   
