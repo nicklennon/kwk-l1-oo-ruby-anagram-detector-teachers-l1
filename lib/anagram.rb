@@ -14,6 +14,7 @@ class Anagram
       if my_letters.sort == array_of_letters.sort
         all_matches << array_word
       end
+      all_matches
     end
   end
   
